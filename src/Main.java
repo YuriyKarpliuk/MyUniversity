@@ -69,16 +69,12 @@ public class Main {
 
 
     public static void addBonusMarks(Map<Student, Integer> map, List<Student> students, Integer bonusMark) {
-        for (Student student : students) {
-            map.put(student, map.containsKey(student) ? map.get(student) + bonusMark : bonusMark);
-            System.out.println("New exam  mark for " + student.getLastName() + " " + student.getFirstName() + " : " + map.get(student));
-        }
-        /*students.stream()
+        students.stream()
                 .forEach(student -> {
                     map.put(student, map.get(student) + bonusMark);
                     System.out.println("New exam  mark for " + student.getLastName() + " " + student.getFirstName() + " : " + map.get(student))
                     ;
-                });*/
+                });
     }
 
     public static void writeInfoAboutDirectorToFile(Director director) throws IOException {
@@ -340,10 +336,10 @@ public class Main {
 
 
         departments2.get(0).registerNewStudent(new Student("Oleg", "Svyrydiuk", 19, 182, 78, 3, 4, true, subjects.subList(0, 4)), students1);
-        /* departments2.get(2).registerNewStudent(null,students1);*/ //exceprtion //
+        /* departments2.get(2).registerNewStudent(null,students1);*/ //exception //
         writeInfoAboutStudentsToFile(students1);
         readInfoAboutStudents();
-        /*searchSubjectbyName(subjects1);*/
+        searchSubjectbyName(subjects);
 
         rateByProfessors(students1, professors);
 
