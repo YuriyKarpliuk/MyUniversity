@@ -1,0 +1,13 @@
+Info about our university professors:
+Anisimov Igor| Age: 58| Weight: 76| Height: 175| Experience  : 15| Salary: 15000 | Money : 18000 |
+Boiko Gennadiy| Age: 72| Weight: 82| Height: 190| Experience  : 35| Salary: 15000 | Money : 25000 |
+Chaban Vasyl| Age: 80| Weight: 73| Height: 180| Experience  : 40| Salary: 15000 | Money : 35000 |
+Dobosevych  Andrii| Age: 60| Weight: 86| Height: 190| Experience  : 20| Salary: 15000 | Money : 25000 |
+Glukhov Valerii| Age: 60| Weight: 70| Height: 190| Experience  : 30| Salary: 15000 | Money : 65000 |
+Gorina Olena| Age: 56| Weight: 60| Height: 165| Experience  : 16| Salary: 15000 | Money : 75000 |
+Ivanovska Olga| Age: 62| Weight: 70| Height: 178| Experience  : 28| Salary: 15000 | Money : 28000 |
+Kostyk Andrii| Age: 50| Weight: 80| Height: 180| Experience  : 14| Salary: 15000 | Money : 20000 |
+Mostavchuk Yevhen| Age: 50| Weight: 71| Height: 189| Experience  : 12| Salary: 15000 | Money : 15000 |
+Vakulenko Teodor| Age: 65| Weight: 68| Height: 172| Experience  : 40| Salary: 15000 | Money : 35000 |
+Yarmolenko Andriy| Age: 50| Weight: 85| Height: 170| Experience  : 20| Salary: 15000 | Money : 17000 |
+Zotko Ivan| Age: 85| Weight: 75| Height: 182| Experience  : 45| Salary: 15000 | Money : 55000 |

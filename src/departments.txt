@@ -1,0 +1,7 @@
+Our university departments:
+ |Applied Math | 
+ |Architecture | 
+ |Computer Science | 
+ |Computer enineering | 
+ |Journalism | 
+ |Law | 

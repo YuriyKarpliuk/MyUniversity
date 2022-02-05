@@ -1,0 +1,7 @@
+Info about our university students:
+Karpliuk Yurii| Age: 18| Weight: 76| Height: 18| Year of studying  : 2| Abscences: 1 |
+Konoplyanka Yevhen| Age: 17| Weight: 68| Height: 173| Year of studying  : 1| Abscences: 6 |
+Mykolenko Vitaliy| Age: 20| Weight: 72| Height: 175| Year of studying  : 4| Abscences: 12 |
+Shevchenko Andrii| Age: 17| Weight: 80| Height: 190| Year of studying  : 1| Abscences: 2 |
+Svyrydiuk Oleg| Age: 19| Weight: 182| Height: 78| Year of studying  : 3| Abscences: 4 |
+Zinchenko Oleksandr| Age: 18| Weight: 80| Height: 182| Year of studying  : 2| Abscences: 0 |
