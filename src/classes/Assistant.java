@@ -7,6 +7,7 @@ import java.util.List;
 public class Assistant extends Teacher implements Employee {
 
     private List<Lab> labs;
+    private List<StudentsGroup> studentsGroups;
     public static final Integer salaryA = 6000;
 
     public Assistant(String firstName, String lastName, Integer age, Integer weight, Integer height, Subject subject, List<Lesson> lessons, Integer money, Integer exp, List<Lab> labs) {
