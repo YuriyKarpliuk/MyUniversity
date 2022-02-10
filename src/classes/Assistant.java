@@ -12,6 +12,7 @@ public class Assistant extends Teacher implements Employee {
     public Assistant(String firstName, String lastName, Integer age, Integer weight, Integer height, Subject subject, List<Lesson> lessons, Integer money, Integer exp, List<Lab> labs) {
         super(firstName, lastName, age, weight, height, subject, lessons, money, exp);
         this.labs = labs;
+        this.studentsGroups = studentsGroups;
     }
 
     @Override

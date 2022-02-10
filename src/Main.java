@@ -235,6 +235,12 @@ public class Main {
         labs.add(new Lab(4, "weewqewq"));
         labs.add(new Lab(5, "xczcxz"));
         labs.add(new Lab(6, "nbngfdgf"));
+        labs.add(new Lab(7, "nbngfdgf"));
+        labs.add(new Lab(8, "nbngfdgf"));
+        labs.add(new Lab(9, "nbngfdgf"));
+        labs.add(new Lab(10, "nbngfdgf"));
+        labs.add(new Lab(11, "nbngfdgf"));
+        labs.add(new Lab(12, "nbngfdgf"));
 
 
         List<Professor> professors = new ArrayList<>();
@@ -289,7 +295,7 @@ public class Main {
         students1.add(new Student("Oleksandr", "Zinchenko", 18, 80, 182, 2, 0, true, subjects.subList(1, 6)));
         students1.add(new Student("Vitaliy", "Mykolenko", 20, 72, 175, 4, 10, false, subjects.subList(2, 7)));
         students1.add(new Student("Yevhen", "Konoplyanka", 17, 68, 173, 1, 6, false, subjects.subList(3, 8)));
-        students1.add(new Student("Yurii", "Karpliuk", 18, 76, 18, 2, 1, true, subjects.subList(5, 11)));
+        students1.add(new Student("Yurii", "Karpliuk", 18, 76, 180, 2, 1, true, subjects.subList(5, 11)));
 
 
         professors.get(0).rate(students1.get(1), 20);
@@ -303,7 +309,7 @@ public class Main {
         professors.get(1).sendInfoAboutStudents();
         departments2.get(0).checkStudentsGrades(professors.get(1));
         professors.get(2).getSalary();
-        Person professor1 = new Professor("Andrii", "Gavryliuk", 64, 191, 85, subjects.get(5), lessons2.subList(1, 3), 20000, 30, studentsGroups2.subList(2, 4));
+        Person professor1 = new Professor("Andrii", "Gavryliuk", 64, 91, 185, subjects.get(5), lessons2.subList(1, 3), 20000, 30, studentsGroups2.subList(2, 4));
         professor1.sayInfo();
 
         assistants.get(0).getSalary();
